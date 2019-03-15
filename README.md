@@ -1,1 +1,2 @@
-# leave
+# Probot ✨
+Epic Discord Bot
